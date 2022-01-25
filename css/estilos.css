@@ -8,12 +8,20 @@ body
 #historia
 {
 color: azure;
-text-align: center;
+text-align:right
 background-color: darkslategrey;
 padding: 20px;
 margin: 40px;
 }
-            
+
+.logo
+{
+float: left;
+border-radius:10;
+border: solid;
+border-color: black;
+}
+
 nav a{
     text-decoration:none;
     color:inherit;
